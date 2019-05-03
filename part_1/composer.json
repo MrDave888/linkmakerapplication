@@ -1,0 +1,13 @@
+{
+    "require": {
+        "symfony/console": "^4.2",
+        "symfony/finder": "^4.2",
+        "erusev/parsedown": "^1.7"
+    },
+    "autoload":{
+        "psr-4":{
+            "Console\\":"src"
+        },
+        "classmap":["src"]
+    }
+}
