@@ -10,7 +10,7 @@
    * 
    *  Q: Do the same for $foo:?$bar
    * 
-   *  A: The ?: operator acts like a short hand for a tunery operator. If the first expression of the operator is false or empty it will 
+   *  A: The ?: operator acts like a short hand for a ternary operator. If the first expression of the operator is false or empty it will 
    *     return the second expression. Otherwise it will always return the first.
    */
 
